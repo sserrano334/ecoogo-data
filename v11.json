@@ -1,0 +1,75 @@
+{
+  "businesses": [
+    {
+      "tags": [
+        0,
+        1
+      ],
+      "type": 0,
+      "longitude": -74.045424,
+      "latitude": 4.867195,
+      "name": "Jack's Pizza",
+      "address": "Calle 24 # 56 - 98",
+      "openHours":[1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000],
+      "closeHours":[2100, 2100, 2100, 2100, 2100, 2100, 2100, 2000]
+    },
+    {
+      "tags": [
+        1
+      ],
+      "type": 2,
+      "longitude": -74.045247,
+      "latitude": 4.877874,
+      "name": "Dieguito's Game",
+      "address": "Carrera 4 # 31 - 43",
+      "openHours":[700, 700, 700, 700, 700, 700, 700, 800],
+      "closeHours":[1800, 1800, 1800, 1800, 1800, 1800, 1800, 2000]
+    },
+    {
+      "tags": [
+        0,
+        1,
+        2
+      ],
+      "type": 2,
+      "longitude": -74.055321,
+      "latitude": 4.859966,
+      "name": "EcoPoint",
+      "address": "Calle 32 # 75 - 65",
+      "openHours":[1000, 1000, 1000, 1000, 1000, 1000, 1000, 1100],
+      "closeHours":[2000, 2000, 2000, 2000, 2000, 2000, 2000, 1800]
+    }
+  ],
+  "businessTypes": [
+    {
+      "ENG": "Restaurant",
+      "ESP": "Restaurante"
+    },
+    {
+      "ENG": "Hotel",
+      "ESP": "Hotel"
+    },
+    {
+      "ENG": "Shop",
+      "ESP": "Tienda"
+    },
+    {
+      "ENG": "Cinema",
+      "ESP": "Cine"
+    }
+  ],
+  "ecoTags": [
+    {
+      "ENG": "No Straws",
+      "ESP": "Sin Pitillos"
+    },
+    {
+      "ENG": "No Plastic Bags",
+      "ESP": "Sin Bolsas Plásticas"
+    },
+    {
+      "ENG": "Recycled Materials",
+      "ESP": "Materiales Reciclados"
+    }
+  ]
+}
