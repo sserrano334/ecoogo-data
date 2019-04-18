@@ -41,29 +41,25 @@
       "ENG": "Restaurant",
       "ENGplural": "Restaurants",
       "ESP": "Restaurante",
-      "ESPplural": "Restaurantes",
-      "icon": "restaurant"
+      "ESPplural": "Restaurantes"
     },
     {
       "ENG": "Hotel",
       "ENGplural": "Hotels",
       "ESP": "Hotel",
-      "ESPplural": "Hoteles",
-      "icon": "hotel"
+      "ESPplural": "Hoteles"
     },
     {
       "ENG": "Store",
       "ENGplural": "Stores",
       "ESP": "Tienda",
-      "ESPplural": "Tiendas",
-      "icon": "store"
+      "ESPplural": "Tiendas"
     },
     {
       "ENG": "Cinema",
       "ENGplural": "Cinemas",
       "ESP": "Cine",
-      "ESPplural": "Cines",
-      "icon": "cinema"
+      "ESPplural": "Cines"
     }
   ],
   "ecoTags": [
