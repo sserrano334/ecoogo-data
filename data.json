@@ -39,19 +39,23 @@
   "businessTypes": [
     {
       "ENG": "Restaurant",
-      "ESP": "Restaurante"
+      "ESP": "Restaurante",
+      "icon": "restaurant"
     },
     {
       "ENG": "Hotel",
-      "ESP": "Hotel"
+      "ESP": "Hotel",
+      "icon": "hotel"
     },
     {
-      "ENG": "Shop",
-      "ESP": "Tienda"
+      "ENG": "Store",
+      "ESP": "Tienda",
+      "icon": "store"
     },
     {
       "ENG": "Cinema",
-      "ESP": "Cine"
+      "ESP": "Cine",
+      "icon": "cinema"
     }
   ],
   "ecoTags": [
