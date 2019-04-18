@@ -39,22 +39,30 @@
   "businessTypes": [
     {
       "ENG": "Restaurant",
+      "ENGplural": "Restaurants",
       "ESP": "Restaurante",
+      "ESPplural": "Restaurantes",
       "icon": "restaurant"
     },
     {
       "ENG": "Hotel",
+      "ENGplural": "Hotels",
       "ESP": "Hotel",
+      "ESPplural": "Hoteles",
       "icon": "hotel"
     },
     {
       "ENG": "Store",
+      "ENGplural": "Stores",
       "ESP": "Tienda",
+      "ESPplural": "Tiendas",
       "icon": "store"
     },
     {
       "ENG": "Cinema",
+      "ENGplural": "Cinemas",
       "ESP": "Cine",
+      "ESPplural": "Cines",
       "icon": "cinema"
     }
   ],
