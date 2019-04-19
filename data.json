@@ -66,6 +66,12 @@
       "ENGplural": "Cafes",
       "ESP": "Café",
       "ESPplural": "Cafés"
+    },
+    {
+      "ENG": "Bar",
+      "ENGplural": "Bars",
+      "ESP": "Bar",
+      "ESPplural": "Bares"
     }
   ],
   "ecoTags": [
