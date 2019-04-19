@@ -60,6 +60,12 @@
       "ENGplural": "Cinemas",
       "ESP": "Cine",
       "ESPplural": "Cines"
+    },
+    {
+      "ENG": "Coffee",
+      "ENGplural": "Coffees",
+      "ESP": "Café",
+      "ESPplural": "Cafés"
     }
   ],
   "ecoTags": [
