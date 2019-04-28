@@ -10,7 +10,9 @@
       "latitude": 4.867195,
       "name": "Jack's Pizza",
       "hours": "Lunes a Jueves |  11:00 am - 11:00 pm\nViernes y Sábado |  11:00 am - 12:00 pm\nDomingo |  11:00 am - 11:00 pm\nDomingo antes de festivo |  11:00 am - 12:00 pm\nFestivo | 11:00 am - 11:00 pm",
-      "address": "Calle 24 # 56 - 98"
+      "address": "Calle 24 # 56 - 98",
+      "phone": "7050505",
+      "webpage": "jackspizza.com.co"
     },
     {
       "tags": [
@@ -20,7 +22,8 @@
       "longitude": -74.045247,
       "latitude": 4.877874,
       "name": "Dieguito's Game",
-      "address": "Carrera 4 # 31 - 43"
+      "address": "Carrera 4 # 31 - 43",
+      "webpage": "elchivodeladeepweb.xyz"
     },
     {
       "tags": [
@@ -33,7 +36,9 @@
       "latitude": 4.859966,
       "name": "EcoPoint",
       "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
-      "address": "Calle 32 # 75 - 65"
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
     }
   ],
   "businessTypes": [
