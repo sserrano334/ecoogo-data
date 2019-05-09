@@ -2,44 +2,317 @@
   "businesses": [
     {
       "tags": [
-        0,
-        1
+        3, 4, 9
       ],
       "type": 0,
-      "longitude": -74.045424,
-      "latitude": 4.867195,
-      "name": "Jack's Pizza",
-      "hours": "Lunes a Jueves |  11:00 am - 11:00 pm\nViernes y Sábado |  11:00 am - 12:00 pm\nDomingo |  11:00 am - 11:00 pm\nDomingo antes de festivo |  11:00 am - 12:00 pm\nFestivo | 11:00 am - 11:00 pm",
-      "address": "Calle 24 # 56 - 98",
-      "phone": "7050505",
-      "webpage": "jackspizza.com.co"
+      "longitude": -74.043139,
+      "latitude": 4.863902,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
     },
     {
       "tags": [
-        1
+        5, 6, 7
       ],
-      "type": 2,
-      "longitude": -74.045247,
-      "latitude": 4.877874,
-      "name": "Dieguito's Game",
-      "address": "Carrera 4 # 31 - 43",
-      "webpage": "elchivodeladeepweb.xyz"
+      "type": 1,
+      "longitude": -74.064813,
+      "latitude": 4.700603,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
     },
     {
       "tags": [
-        0,
-        1,
-        2
+        5, 7, 9, 2
       ],
       "type": 2,
-      "longitude": -74.055321,
-      "latitude": 4.859966,
-      "name": "EcoPoint",
+      "longitude": -74.035646,
+      "latitude": 4.724898,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 0, 6, 8
+      ],
+      "type": 3,
+      "longitude": -74.081935,
+      "latitude": 4.696860,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 7, 0
+      ],
+      "type": 4,
+      "longitude": -74.033560,
+      "latitude": 4.776551,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 8
+      ],
+      "type": 5,
+      "longitude": -74.018269,
+      "latitude": 4.928805,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 4, 9
+      ],
+      "type": 0,
+      "longitude": -74.052391,
+      "latitude": 4.640596,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 6, 7
+      ],
+      "type": 1,
+      "longitude": -73.962493,
+      "latitude": 4.733665,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 7, 9, 2
+      ],
+      "type": 2,
+      "longitude": -74.064370,
+      "latitude": 4.614434,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 0, 6, 8
+      ],
+      "type": 3,
+      "longitude": -74.079520,
+      "latitude": 4.641321,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 7, 0
+      ],
+      "type": 4,
+      "longitude": -74.080674,
+      "latitude": 4.700000,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 8
+      ],
+      "type": 5,
+      "longitude": -74.066507,
+      "latitude": 4.734816,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 4, 9
+      ],
+      "type": 0,
+      "longitude": -74.03489,
+      "latitude": 4.8349,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 6, 7
+      ],
+      "type": 1,
+      "longitude": -74.034890,
+      "latitude": 4.700603,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 7, 9, 2
+      ],
+      "type": 2,
+      "longitude": -74.03489,
+      "latitude": 4.793285,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 0, 6, 8
+      ],
+      "type": 3,
+      "longitude": -74.0530948,
+      "latitude": 4.68320,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 7, 0
+      ],
+      "type": 4,
+      "longitude": -74.034809,
+      "latitude": 4.780934,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 8
+      ],
+      "type": 5,
+      "longitude": -74.080934,
+      "latitude": 4.909385,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 4, 9
+      ],
+      "type": 0,
+      "longitude": -74.034985,
+      "latitude": 4.60938,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 6, 7
+      ],
+      "type": 1,
+      "longitude": -73.954896,
+      "latitude": 4.735809,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 7, 9, 2
+      ],
+      "type": 2,
+      "longitude": -74.038094,
+      "latitude": 4.689340,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 0, 6, 8
+      ],
+      "type": 3,
+      "longitude": -74.09844,
+      "latitude": 4.643098,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        3, 7, 0
+      ],
+      "type": 4,
+      "longitude": -74.093480,
+      "latitude": 4.7348096,
+      "name": "El Sitio",
+      "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
+      "address": "Calle 32 # 75 - 65",
+      "webpage": "point.eco.co",
+      "phone": "320 756 9056\n600 3592"
+    },
+    {
+      "tags": [
+        5, 8
+      ],
+      "type": 5,
+      "longitude": -74.093480,
+      "latitude": 4.704893,
+      "name": "El Sitio",
       "hours": "Lunes a Jueves: 06:00 a.m. - 08:30 p.m. \nViernes y Sábados: 06:00 a.m. - 09:00 p.m. \nDomingos y Festivos: 09:00 a.m. - 08:00 p.m.",
       "address": "Calle 32 # 75 - 65",
       "webpage": "point.eco.co",
       "phone": "320 756 9056\n600 3592"
     }
+    
   ],
   "businessTypes": [
     {
@@ -91,6 +364,30 @@
     {
       "ENG": "Recycled Materials",
       "ESP": "Materiales Reciclados"
+    },
+    {
+      "ENG": "Organic Food",
+      "ESP": "Comida Orgánica"
+    },
+    {
+      "ENG": "Vegetarian",
+      "ESP": "Vegetariano"
+    },
+    {
+      "ENG": "Vegan",
+      "ESP": "Vegano"
+    },
+    {
+      "ENG": "Eco-facilities",
+      "ESP": "Eco-instalaciones"
+    },
+    {
+      "ENG": "LEED Certified",
+      "ESP": "Certificación LEED"
+    },
+    {
+      "ENG": "Organic Products",
+      "ESP": "Productos Orgánicos"
     }
   ]
 }
